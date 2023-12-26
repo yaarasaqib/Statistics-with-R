@@ -1,9 +1,11 @@
 
-Descriptions of Folder Contains:
+**Descriptions of Folder Contains**:
 
-Datasets: This folder contains all the datasets that are used
+**Datasets**: This folder contains all the datasets that are used
 
-CaseStudy: This folder contains the applications of the Statistical Analysis.
+**CaseStudy**: This folder contains the applications of the Statistical Analysis.
+
+**Statistical Methods**:  This contains the  pdf file containing Basics R data manipulation, Hypothesis Testing , ANOVA , ANCOVA, MANOVA,  Applications of  Linear Regression , Logistic Regression , Linear Discriminant Analysis, Decision Tree, Principal Component Analysis. 
 
 
 Book Recommendations:
