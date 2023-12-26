@@ -5,7 +5,7 @@
 
 **CaseStudy**: This folder contains the applications of the Statistical Analysis.
 
-**Statistical Methods**:  This contains the  pdf file containing Basics R data manipulation, Hypothesis Testing , ANOVA , ANCOVA, MANOVA,  Applications of  Linear Regression , Logistic Regression , Linear Discriminant Analysis, Decision Tree, Principal Component Analysis. 
+**Statistical Methods**:  This contains the  pdf file containing Basics R data manipulation, Hypothesis Testing , ANOVA , ANCOVA, MANOVA,  Applications of  Linear Regression , Logistic Regression , Linear Discriminant Analysis, Decision Tree, Principal Component Analysis , Correspondence Analysis. 
 
 
 Book Recommendations:
