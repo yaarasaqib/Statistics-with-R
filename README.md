@@ -1,7 +1,8 @@
 
 Descriptions of Folder Contains:
-Datasets: This folder contains all the datasets that are used
-CaseStudy: This folder contains the applications of the Statistical Analysis.
+
+Datasets: This folder contains all the datasets that are used\\
+CaseStudy: This folder contains the applications of the Statistical Analysis.\\
 
 
 Book Recommendations:
